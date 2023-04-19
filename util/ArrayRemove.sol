@@ -4,7 +4,7 @@
 pragma solidity ^0.8.0;
 
 /**
- * @dev Collection of functions related to array types.
+ * @dev Collection of functions related to remove array elements.
  */
 library ArrayRemove {
     /**
